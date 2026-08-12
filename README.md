@@ -6,7 +6,7 @@ This is a simple one-page personal website created for a Software Engineering la
 - `index.html` - website
 - `style.css` - website design
 - `cv.pdf` - CV
-- `profile.jpg` - **YOU MUST ADD YOUR OWN PROFILE PHOTO HERE**
+- `profile.jpg` 
 
 ## GitHub Pages
 Create a repository named exactly:
